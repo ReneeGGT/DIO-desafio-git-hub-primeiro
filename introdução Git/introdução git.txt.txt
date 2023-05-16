@@ -1,0 +1,3 @@
+O git Bash é um terminal estendido para otimizar o uso do git.
+
+dowload do git: https://git-scm.com/dowload
